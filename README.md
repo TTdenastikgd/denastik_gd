@@ -1,2 +1,0 @@
-# denastik_gd
-MyFirstRPGproject
